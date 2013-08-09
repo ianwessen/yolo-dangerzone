@@ -1,0 +1,3 @@
+rfio:/castor/cern.ch/user/e/emanuele/CMST3/Higgs2.2.X/WcMadgraph/default_11.root
+rfio:/castor/cern.ch/user/e/emanuele/CMST3/Higgs2.2.X/WcMadgraph/default_12.root
+rfio:/castor/cern.ch/user/e/emanuele/CMST3/Higgs2.2.X/WcMadgraph/default_5.root

@@ -1,0 +1,45 @@
+Combination of mm_1j=hww-2.13fb.mH130.mm_1j.txt, ee_1j=hww-2.13fb.mH130.ee_1j.txt
+imax 2 number of bins
+jmax 8 number of processes minus 1
+kmax 32 number of nuisance parameters
+----------------------------------------------------------------------------------------------------------------------------------
+bin          mm_1j   ee_1j 
+observation  0.0     0.0   
+----------------------------------------------------------------------------------------------------------------------------------
+bin                                          mm_1j   mm_1j   mm_1j   mm_1j   mm_1j   mm_1j   mm_1j   mm_1j   ee_1j   ee_1j   ee_1j   ee_1j   ee_1j   ee_1j   ee_1j   ee_1j   ee_1j 
+process                                      ggWW    WJet    Top     WW      VV      DY      ggH     vbfH    ggWW    Vg      WJet    Top     WW      VV      DY      ggH     vbfH  
+process                                      1       2       3       4       5       6       0       -1      1       7       2       3       4       5       6       0       -1    
+rate                                         0.2810  4.1000  4.2350  5.5310  0.4010  0.9660  2.7790  0.3050  0.1100  0.0080  0.5900  1.6400  2.0900  0.2510  0.9660  0.9400  0.0950
+----------------------------------------------------------------------------------------------------------------------------------
+CMS_QCDscale_WW_EXTRAP   lnN                 -       -       -       1.21    -       -       -       -       -       -       -       -       1.21    -       -       -       -     
+CMS_eff_e               lnN                  -       -       -       -       -       -       -       -       -       -       -       -       -       1.04    -       1.04    1.04  
+CMS_eff_m               lnN                  -       -       -       -       1.04    -       1.04    1.04    -       -       -       -       -       -       -       -       -     
+CMS_fake_Vg             lnN                  -       -       -       -       -       -       -       -       -       2.0     -       -       -       -       -       -       -     
+CMS_fake_e              lnN                  -       -       -       -       -       -       -       -       -       -       1.25    -       -       -       -       -       -     
+CMS_fake_m              lnN                  -       1.29    -       -       -       -       -       -       -       -       -       -       -       -       -       -       -     
+CMS_hww_DYee1j_extr     gmM                  -       -       -       -       -       -       -       -       -       -       -       -       -       -       0.61    -       -     
+CMS_hww_DYee1j_stat     gmN  21              -       -       -       -       -       -       -       -       -       -       -       -       -       -       0.046   -       -     
+CMS_hww_DYmm1j_extr     gmM                  -       -       -       -       -       0.61    -       -       -       -       -       -       -       -       -       -       -     
+CMS_hww_DYmm1j_stat     gmN  21              -       -       -       -       -       0.046   -       -       -       -       -       -       -       -       -       -       -     
+CMS_hww_Top_1j_extr     lnN                  -       -       1.07    -       -       -       -       -       -       -       -       1.1     -       -       -       -       -     
+CMS_hww_Top_1j_stat     gmN  491             -       -       0.0086  -       -       -       -       -       -       -       -       0.0033  -       -       -       -       -     
+CMS_hww_WW_1j_extr      lnN                  -       -       -       1.27    -       -       -       -       -       -       -       -       1.39    -       -       -       -     
+CMS_hww_WW_1j_stat      gmN  198             -       -       -       0.0279  -       -       -       -       -       -       -       -       0.0106  -       -       -       -     
+CMS_hww_ggWW_1j_extr    lnN                  1.27    -       -       -       -       -       -       -       1.38    -       -       -       -       -       -       -       -     
+CMS_hww_ggWW_1j_stat    gmN  198             0.0014  -       -       -       -       -       -       -       0.0006  -       -       -       -       -       -       -       -     
+CMS_met                 lnN                  -       -       -       -       1.02    -       1.02    1.02    -       1.02    -       -       -       1.02    -       1.02    1.02  
+CMS_p_scale_e           lnN                  -       -       -       -       -       -       -       -       -       1.02    -       -       -       1.02    -       1.02    1.02  
+CMS_p_scale_m           lnN                  -       -       -       -       1.01    -       1.01    1.01    -       -       -       -       -       -       -       -       -     
+CMS_scale_j             lnN                  -       -       -       -       1.02    -       1.02    1.02    -       1.02    -       -       -       1.02    -       1.02    1.02  
+QCDscale_VV             lnN                  -       -       -       -       1.04    -       -       -       -       -       -       -       -       1.04    -       -       -     
+QCDscale_Vg             lnN                  -       -       -       -       -       -       -       -       -       1.5     -       -       -       -       -       -       -     
+QCDscale_ggH1in         lnN                  -       -       -       -       -       -       1.55    -       -       -       -       -       -       -       -       1.55    -     
+QCDscale_ggH2in         lnN                  -       -       -       -       -       -       0.88    -       -       -       -       -       -       -       -       0.88    -     
+QCDscale_ggH_ACEPT      lnN                  -       -       -       -       -       -       1.02    -       -       -       -       -       -       -       -       1.02    -     
+QCDscale_ggVV           lnN                  1.5     -       -       -       -       -       -       -       1.5     -       -       -       -       -       -       -       -     
+QCDscale_qqH            lnN                  -       -       -       -       -       -       -       1.01    -       -       -       -       -       -       -       -       1.01  
+QCDscale_qqH_ACEPT      lnN                  -       -       -       -       -       -       -       1.02    -       -       -       -       -       -       -       -       1.02  
+UEPS                    lnN                  -       -       -       -       -       -       1.11    -       -       -       -       -       -       -       -       1.11    -     
+lumi                    lnN                  -       -       -       -       1.04    -       1.04    1.04    -       1.04    -       -       -       1.04    -       1.04    1.04  
+pdf_gg                  lnN                  1.0     -       -       -       -       -       1.08    -       1.0     -       -       -       -       -       -       1.08    -     
+pdf_qqbar               lnN                  -       -       -       1.0     1.04    -       -       1.02    -       -       -       -       1.0     1.04    -       -       1.02  

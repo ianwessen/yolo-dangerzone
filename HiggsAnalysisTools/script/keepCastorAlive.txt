@@ -1,0 +1,7 @@
+30     *     *     *     *         cat /tmp/emanuele/lists/*8TeV*list | xargs -i stager_get -U mc2012 -M {} > /tmp/emanuele/lists/stagefiles.log
+30     *     *     *     *         cat /tmp/emanuele/lists/*7TeV*list | xargs -i stager_get -U mc2012 -M {} >> /tmp/emanuele/lists/stagefiles.log
+30     *     *     *     *         cat /tmp/emanuele/lists/DoubleElectron.list | xargs -i stager_get -U data2012 -M {} >> /tmp/emanuele/lists/stagefiles.log
+30     *     *     *     *         cat /tmp/emanuele/lists/DoubleMu.list | xargs -i stager_get -U data2012 -M {} >> /tmp/emanuele/lists/stagefiles.log
+30     *     *     *     *         cat /tmp/emanuele/lists/MuEG.list | xargs -i stager_get -U data2012 -M {} >> /tmp/emanuele/lists/stagefiles.log
+30     *     *     *     *         cat /tmp/emanuele/lists/SingleMu.list | xargs -i stager_get -U data2012 -M {} >> /tmp/emanuele/lists/stagefiles.log
+30     *     *     *     *         cat /tmp/emanuele/lists/SingleElectron.list | xargs -i stager_get -U data2012 -M {} >> /tmp/emanuele/lists/stagefiles.log

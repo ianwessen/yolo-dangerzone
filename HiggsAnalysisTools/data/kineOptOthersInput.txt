@@ -1,0 +1,4 @@
+myOutTree_kineWW_incl.root	0.0015		114.3
+myOutTree_kinetW_incl.root	0.00055		62.0
+myOutTree_kineWZ.root		0.0012		49.9
+myOutTree_kineZZ.root		0.0025		15.3

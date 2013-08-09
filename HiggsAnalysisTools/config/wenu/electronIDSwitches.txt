@@ -1,0 +1,13 @@
+nRecoEle	1
+hOverE		1
+s9s25		0
+deta		1
+dphiIn		1
+dphiOut		0
+covEtaEta	1
+eOverPout	0
+eOverPin	1
+invEMinusInvP   1
+Fisher		0
+Likelihood	0
+

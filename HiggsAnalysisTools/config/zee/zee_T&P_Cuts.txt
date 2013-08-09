@@ -1,0 +1,5 @@
+TagPtInf		20		10000
+TagTrackerPtSum		 0		0.05
+ProbePtInf		20		10000
+ProbeTrackerPtSum	 0		0.05
+invMass		        82		98

@@ -1,0 +1,2 @@
+rfio:/castor/cern.ch/user/e/emanuele/CMST3/Higgs2.2.X/Z2l_2lfilter/default_46.root
+rfio:/castor/cern.ch/user/e/emanuele/CMST3/Higgs2.2.X/Z2l_2lfilter/default_57.root

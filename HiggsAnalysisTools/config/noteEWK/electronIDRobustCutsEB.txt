@@ -1,0 +1,7 @@
+nRecoEle	 1		1000
+hOverE		-0.115		0.115
+deta		-0.009		0.009
+dphiIn          -0.09           0.09
+covEtaEta       -0.000196       0.000196
+
+

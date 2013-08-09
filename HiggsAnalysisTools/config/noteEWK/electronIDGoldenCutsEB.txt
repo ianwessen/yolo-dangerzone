@@ -1,0 +1,12 @@
+nRecoEle	1		1000
+hOverE		-0.05		0.05
+s9s25		0.80		1
+deta		-0.004		0.004
+dphiIn		-0.02		0.02
+dphiOut		-0.02		0.02
+invEMinusInvP    0.             0.02
+bremFraction     0.             1000. 
+covEtaEta	 0.000025	0.000121
+covPhiPhi        0.             1000.
+eOverPout	 0.6		1000.
+eOverPin         0.             1000.

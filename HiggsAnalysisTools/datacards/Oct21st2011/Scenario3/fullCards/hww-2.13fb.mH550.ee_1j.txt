@@ -1,0 +1,35 @@
+## H->WW for m(H) = 550, channel ee, 1 jets. Luminosity 2.13fb
+## Debug info: {'WW': [1.04], 'WJet': [0.31, 1.2516129032258063], 'Top': [0.99696567999999997, 491.0, 0.0020304799999999999, 0.00023000000000000001], 'ggWW': [0.049000000000000002], 'VV': [0.127], 'DY': [0.035539800000000003, 2.0, 0.017769900000000002, 0.136408], 'data': [0.0], 'ggH': [0.21299999999999999], 'vbfH': [0.025000000000000001]}
+imax 1
+jmax *
+kmax *
+----------------------------------------------------------------------------------------------------
+bin          ee_1j
+observation    0
+----------------------------------------------------------------------------------------------------
+bin                                ee_1j    ee_1j    ee_1j    ee_1j    ee_1j    ee_1j    ee_1j    ee_1j
+process                             vbfH      ggH       WW     WJet      Top     ggWW       VV       DY
+process                               -8       -7        1        2        3        4        5        6
+rate                               0.025    0.213    1.040    0.310    0.997    0.049    0.127    0.036
+----------------------------------------------------------------------------------------------------
+lumi                      lnN       1.04     1.04     1.04        -        -     1.04     1.04        -   
+pdf_gg                    lnN          -     1.10        -        -        -     1.04        -        -   
+pdf_qqbar                 lnN       1.04        -     1.04        -        -        -     1.04        -   
+QCDscale_ggH1in           lnN          -     1.36        -        -        -        -        -        -   
+QCDscale_ggH2in           lnN          -     0.87        -        -        -        -        -        -   
+QCDscale_qqH              lnN       1.01        -        -        -        -        -        -        -   
+QCDscale_ggVV             lnN          -        -        -        -        -     1.50        -        -   
+QCDscale_VV               lnN          -        -        -        -        -        -     1.04        -   
+CMS_eff_e                 lnN       1.04     1.04     1.04        -        -     1.04     1.04        -   
+CMS_p_scale_e             lnN       1.02     1.02     1.02        -        -     1.02     1.02        -   
+CMS_met                   lnN       1.02     1.02     1.02        -        -     1.02     1.02        -   
+CMS_scale_j               lnN       1.02     1.02     1.02        -        -     1.02     1.02        -   
+QCDscale_ggH_ACEPT        lnN          -     1.02        -        -        -        -        -        -   
+QCDscale_qqH_ACEPT        lnN       1.02        -        -        -        -        -        -        -   
+UEPS                      lnN          -     1.11        -        -        -        -        -        -   
+CMS_QCDscale_WW_EXTRAP    lnN          -        -     1.21        -        -        -        -        -   
+CMS_fake_e                lnN          -        -        -     1.25        -        -        -        -   
+CMS_hww_Top_1j_extr       lnN          -        -        -        -     1.11        -        -        -   
+CMS_hww_Top_1j_stat       gmN 491      -        -        -        -   0.0020        -        -        -   
+CMS_hww_DYee1j_extr       gmM          -        -        -        -        -        -        -     1.00   
+CMS_hww_DYee1j_stat       gmN   2      -        -        -        -        -        -        -   0.0178   

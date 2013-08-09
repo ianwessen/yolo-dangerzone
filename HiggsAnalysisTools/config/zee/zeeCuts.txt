@@ -1,0 +1,14 @@
+nRecoEle		2		1000
+absEtaEleAcc		0		2.5
+ptEleAcc		20		10000
+trackerPtSum		0		0.05
+hcalPtSum		0		0.05
+jetConeWidth		0.0		0.5
+etaJetAcc		-2.5		2.5
+etJetAcc		30		10000
+maxPtEle		30		70
+minPtEle		25		10000
+detaLeptons		-1		1
+MET			50		10000
+deltaPhi		0		100
+eleInvMass		82		98

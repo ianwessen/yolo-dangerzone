@@ -1,0 +1,14 @@
+nRecoEle		1		10000
+etaEleAcc		-2.5		2.5
+ptEleAcc		26		10000
+trackerPtSum		0.0		0.05
+MET			25		10000
+nRecoJets		2		10000
+jetConeWidth		0.0		0.5
+etaJetAcc		-2.5		2.5
+ptJetAcc		26		10000
+alphaJet		-1000		1000
+emFractionJet		0		1
+wTrMass			0		1000
+deltaPhi		1.0		3.15
+

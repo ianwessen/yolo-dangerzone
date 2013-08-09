@@ -1,0 +1,13 @@
+nRecoEle	1
+hOverE		1
+s9s25		1
+deta		1
+dphiIn		1
+dphiOut		1
+invEMinusInvP   1
+bremFraction    1
+covEtaEta	1
+covPhiPhi	1
+eOverPout	1
+eOverPin	1
+

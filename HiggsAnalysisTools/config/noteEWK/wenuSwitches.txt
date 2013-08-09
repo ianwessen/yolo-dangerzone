@@ -1,0 +1,15 @@
+MCtruth 	1
+apply_weight    0
+trigger 	1
+nRecoEle	1
+etaEleAcc	1
+etaCrack1	1
+etaCrack2	1
+ptEleAcc	1
+trackerPtSum	1
+golden          0
+goldenID        0
+robustID        1
+MET1		1
+MET2		1
+

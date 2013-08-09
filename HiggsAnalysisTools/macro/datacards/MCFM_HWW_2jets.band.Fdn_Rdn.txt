@@ -1,0 +1,22 @@
+m(H)	central 	min     	max     	kappa
+115	1890.3720	1571.8520	1900.8940	1.0997	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+120	1787.6300	1506.7560	1801.7130	1.0935	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+130	1640.4610	1356.5480	1640.4610	1.0997	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+140	1498.4280	1222.4970	1510.6220	1.1116	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+150	1366.9010	1113.2400	1389.7510	1.1173	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+160	1262.1290	1019.3880	1286.6180	1.1235	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+170	1153.3740	935.5670	1226.2130	1.1448	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+180	1064.8560	860.7870	1129.4940	1.1455	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+190	989.7060	796.5920	1050.8870	1.1486	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+200	919.9970	740.0950	980.4450	1.1510	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+210	858.9780	689.9880	931.9940	1.1622	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+220	805.5910	644.4320	882.5230	1.1702	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+230	755.6710	604.4420	820.0790	1.1648	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+250	677.5050	535.0080	742.2090	1.1778	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+300	546.7000	435.4760	610.0040	1.1835	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+350	570.7660	452.6150	643.9510	1.1928	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+400	499.2090	393.0330	559.3460	1.1930	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+450	293.1510	231.3030	328.4100	1.1916	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+500	151.9430	120.3720	172.4690	1.1970	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+550	 75.7120	 59.5910	 85.3030	1.1964	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 
+600	 36.6500	 28.9370	 41.7430	1.2011	Fdd Fdd_Rdd Fdn Fdn_Rdn Nominal Rdd Rdn 

@@ -1,0 +1,271 @@
+# qq->WW pdfs
+of0j_qqWWMadgraph_me_nominals = 164.942 +/- 0.540138
+of0j_qqWWMadgraph_si_nominals = 29.9934 +/- 0.240981
+of0j_qqWWMCatNLONom_me_nominals = 161.229 +/- 0.737444
+of0j_qqWWMCatNLONom_si_nominals = 28.2295 +/- 0.393804
+of0j_qqWWMCatNLOUp_me_nominals = 163.27 +/- 0.70233
+of0j_qqWWMCatNLOUp_si_nominals = 28.6994 +/- 0.370191
+of0j_qqWWMCatNLODown_me_nominals = 167.73 +/- 0.797609
+of0j_qqWWMCatNLODown_si_nominals = 30.8619 +/- 0.412156
+of1j_qqWWMadgraph_me_nominals = 177.187 +/- 1.67182
+of1j_qqWWMadgraph_si_nominals = 34.741 +/- 0.649574
+of1j_qqWWMCatNLONom_me_nominals = 174.886 +/- 1.68276
+of1j_qqWWMCatNLONom_si_nominals = 34.9862 +/- 1.16255
+of1j_qqWWMCatNLOUp_me_nominals = 173.448 +/- 2.37373
+of1j_qqWWMCatNLOUp_si_nominals = 35.3047 +/- 0.869332
+of1j_qqWWMCatNLODown_me_nominals = 180.013 +/- 1.67918
+of1j_qqWWMCatNLODown_si_nominals = 38.1749 +/- 0.834633
+# gg->WW pdfs
+of0j_ggWW_me_nominals = 162.323 +/- 4.68813
+of0j_ggWW_si_nominals = 25.3552 +/- 1.62966
+of1j_ggWW_me_nominals = 169.884 +/- 17.3887
+of1j_ggWW_si_nominals = 29.8868 +/- 8.06947
+# top pdfs
+of0j_Top_me_nominals = 199.978 +/- 326.044
+of0j_Top_si_nominals = 43.1316 +/- 4.60159
+of1j_Top_me_nominals = 189.242 +/- 2.41141
+of1j_Top_si_nominals = 37.986 +/- 0.862546
+# DY pdfs
+of0j_embeddedtt_me1_nominals = 166.247 +/- 120.555
+of0j_embeddedtt_si1_nominals = 39.9968 +/- 41.8875
+of0j_embeddedtt_me2_nominals = 288.184 +/- 505.963
+of0j_embeddedtt_si2_nominals = 61.3997 +/- 183.261
+of0j_embeddedtt_f_nominals = 0.843384 +/- 0.326355
+of1j_embeddedtt_me1_nominals = 173.184 +/- 16.8377
+of1j_embeddedtt_si1_nominals = 31.9937 +/- 8.86839
+of1j_embeddedtt_me2_nominals = 299.953 +/- 485.23
+of1j_embeddedtt_si2_nominals = 30.0415 +/- 26.2095
+of1j_embeddedtt_f_nominals = 0.916188 +/- 0.0928558
+# Wg* pdfs
+of0j_WGstar_me_nominals = 98 +/- 38.4421
+of0j_WGstar_si_nominals = 32.9889 +/- 11.4989
+of1j_WGstar_me_nominals = 74.8451 +/- 41.1758
+of1j_WGstar_si_nominals = 51.2865 +/- 48.9646
+# Wg,WZ,ZZ=others pdfs
+of0j_Ot_me_nominals = 164.6 +/- 30.0072
+of0j_Ot_si_nominals = 30.6624 +/- 13.4113
+of1j_Ot_me_nominals = 164.47 +/- 19.3536
+of1j_Ot_si_nominals = 32.926 +/- 10.5333
+# qq->WW pdfs
+of0j_qqWWMadgraph_me_res_met = 165.049 +/- 0.590928
+of0j_qqWWMadgraph_si_res_met = 30.1406 +/- 0.208871
+of1j_qqWWMadgraph_me_res_met = 177.404 +/- 1.60034
+of1j_qqWWMadgraph_si_res_met = 34.8149 +/- 0.892867
+# gg->WW pdfs
+of0j_ggWW_me_res_met = 162.497 +/- 5.05722
+of0j_ggWW_si_res_met = 25.6448 +/- 1.70872
+of1j_ggWW_me_res_met = 169.63 +/- 16.9592
+of1j_ggWW_si_res_met = 29.7415 +/- 8.01167
+# top pdfs
+of0j_Top_me_res_met = 199.998 +/- 117.124
+of0j_Top_si_res_met = 43.2844 +/- 3.29756
+of1j_Top_me_res_met = 189.521 +/- 2.45896
+of1j_Top_si_res_met = 38.1166 +/- 0.881221
+# DY pdfs
+# Wg* pdfs
+of0j_WGstar_me_res_met = 97.9998 +/- 26.2229
+of0j_WGstar_si_res_met = 23.2215 +/- 5.42903
+of1j_WGstar_me_res_met = 116.393 +/- 9.5521
+of1j_WGstar_si_res_met = 17.807 +/- 4.89552
+# Wg,WZ,ZZ=others pdfs
+of0j_Ot_me_res_met = 164.603 +/- 23.7027
+of0j_Ot_si_res_met = 31.0417 +/- 13.5023
+of1j_Ot_me_res_met = 164.648 +/- 19.409
+of1j_Ot_si_res_met = 32.6372 +/- 10.8921
+# qq->WW pdfs
+of0j_qqWWMadgraph_me_res_e = 164.92 +/- 0.388353
+of0j_qqWWMadgraph_si_res_e = 29.9904 +/- 0.172661
+of1j_qqWWMadgraph_me_res_e = 177.386 +/- 1.6685
+of1j_qqWWMadgraph_si_res_e = 34.8868 +/- 0.655755
+# gg->WW pdfs
+of0j_ggWW_me_res_e = 162.478 +/- 4.91975
+of0j_ggWW_si_res_e = 25.528 +/- 1.67739
+of1j_ggWW_me_res_e = 169.397 +/- 19.0368
+of1j_ggWW_si_res_e = 29.656 +/- 6.48967
+# top pdfs
+of0j_Top_me_res_e = 70.0842 +/- 29.8416
+of0j_Top_si_res_e = 99.9924 +/- 5.49406
+of1j_Top_me_res_e = 189.545 +/- 2.34844
+of1j_Top_si_res_e = 37.9861 +/- 0.849736
+# DY pdfs
+# Wg* pdfs
+of0j_WGstar_me_res_e = 98 +/- 27.2137
+of0j_WGstar_si_res_e = 23.9856 +/- 5.50439
+of1j_WGstar_me_res_e = 116.996 +/- 10.1515
+of1j_WGstar_si_res_e = 17.9077 +/- 5.04043
+# Wg,WZ,ZZ=others pdfs
+of0j_Ot_me_res_e = 163.941 +/- 23.6711
+of0j_Ot_si_res_e = 30.455 +/- 11.4047
+of1j_Ot_me_res_e = 163.473 +/- 21.7501
+of1j_Ot_si_res_e = 32.52 +/- 11.5622
+# qq->WW pdfs
+of0j_qqWWMadgraph_me_scaleup_e = 166.695 +/- 0.636192
+of0j_qqWWMadgraph_si_scaleup_e = 30.5574 +/- 0.21617
+of1j_qqWWMadgraph_me_scaleup_e = 179.162 +/- 1.63205
+of1j_qqWWMadgraph_si_scaleup_e = 35.2715 +/- 0.909152
+# gg->WW pdfs
+of0j_ggWW_me_scaleup_e = 164.095 +/- 5.22387
+of0j_ggWW_si_scaleup_e = 25.8756 +/- 1.75088
+of1j_ggWW_me_scaleup_e = 171.402 +/- 20.6607
+of1j_ggWW_si_scaleup_e = 30.4603 +/- 6.98849
+# top pdfs
+of0j_Top_me_scaleup_e = 200 +/- 101.219
+of0j_Top_si_scaleup_e = 43.3331 +/- 3.27911
+of1j_Top_me_scaleup_e = 191.372 +/- 2.725
+of1j_Top_si_scaleup_e = 38.7594 +/- 0.964871
+# DY pdfs
+# Wg* pdfs
+of0j_WGstar_me_scaleup_e = 98 +/- 24.3217
+of0j_WGstar_si_scaleup_e = 23.8894 +/- 5.13147
+of1j_WGstar_me_scaleup_e = 116.988 +/- 8.77015
+of1j_WGstar_si_scaleup_e = 17.2992 +/- 4.66026
+# Wg,WZ,ZZ=others pdfs
+of0j_Ot_me_scaleup_e = 165.768 +/- 21.6356
+of0j_Ot_si_scaleup_e = 31.3806 +/- 12.3603
+of1j_Ot_me_scaleup_e = 166.456 +/- 21.4566
+of1j_Ot_si_scaleup_e = 33.4433 +/- 10.7997
+# qq->WW pdfs
+of0j_qqWWMadgraph_me_scaledn_e = 163.259 +/- 0.560478
+of0j_qqWWMadgraph_si_scaledn_e = 29.4706 +/- 0.198753
+of1j_qqWWMadgraph_me_scaledn_e = 175.388 +/- 1.59692
+of1j_qqWWMadgraph_si_scaledn_e = 34.0806 +/- 0.627442
+# gg->WW pdfs
+of0j_ggWW_me_scaledn_e = 160.684 +/- 4.45495
+of0j_ggWW_si_scaledn_e = 24.9536 +/- 1.56941
+of1j_ggWW_me_scaledn_e = 167.711 +/- 17.6843
+of1j_ggWW_si_scaledn_e = 29.1602 +/- 6.10352
+# top pdfs
+of0j_Top_me_scaledn_e = 199.995 +/- 160.064
+of0j_Top_si_scaledn_e = 42.9088 +/- 3.31094
+of1j_Top_me_scaledn_e = 187.377 +/- 2.16577
+of1j_Top_si_scaledn_e = 37.3512 +/- 0.787123
+# DY pdfs
+# Wg* pdfs
+of0j_WGstar_me_scaledn_e = 97.9988 +/- 47.1724
+of0j_WGstar_si_scaledn_e = 24.4327 +/- 6.59215
+of1j_WGstar_me_scaledn_e = 116.574 +/- 10.3472
+of1j_WGstar_si_scaledn_e = 17.2996 +/- 4.85794
+# Wg,WZ,ZZ=others pdfs
+of0j_Ot_me_scaledn_e = 162.874 +/- 23.53
+of0j_Ot_si_scaledn_e = 30.028 +/- 12.5635
+of1j_Ot_me_scaledn_e = 162.665 +/- 20.2927
+of1j_Ot_si_scaledn_e = 32.374 +/- 10.1888
+# qq->WW pdfs
+of0j_qqWWMadgraph_me_scaleup_m = 165.498 +/- 0.527243
+of0j_qqWWMadgraph_si_scaleup_m = 30.1786 +/- 0.242222
+of1j_qqWWMadgraph_me_scaleup_m = 177.82 +/- 1.56343
+of1j_qqWWMadgraph_si_scaleup_m = 34.8767 +/- 0.900963
+# gg->WW pdfs
+of0j_ggWW_me_scaleup_m = 163.219 +/- 5.00644
+of0j_ggWW_si_scaleup_m = 25.6121 +/- 1.69645
+of1j_ggWW_me_scaleup_m = 170.294 +/- 16.8822
+of1j_ggWW_si_scaleup_m = 29.8699 +/- 6.16596
+# top pdfs
+of0j_Top_me_scaleup_m = 200 +/- 148.301
+of0j_Top_si_scaleup_m = 42.976 +/- 2.59908
+of1j_Top_me_scaleup_m = 190.242 +/- 2.56256
+of1j_Top_si_scaleup_m = 38.3807 +/- 0.913116
+# DY pdfs
+# Wg* pdfs
+of0j_WGstar_me_scaleup_m = 97.9998 +/- 26.3966
+of0j_WGstar_si_scaleup_m = 23.8119 +/- 5.51018
+of1j_WGstar_me_scaleup_m = 116.61 +/- 8.84348
+of1j_WGstar_si_scaleup_m = 17.2199 +/- 4.64746
+# Wg,WZ,ZZ=others pdfs
+of0j_Ot_me_scaleup_m = 164.793 +/- 29.9448
+of0j_Ot_si_scaleup_m = 30.7164 +/- 12.5667
+of1j_Ot_me_scaleup_m = 164.383 +/- 19.8221
+of1j_Ot_si_scaleup_m = 32.6427 +/- 12.5447
+# qq->WW pdfs
+of0j_qqWWMadgraph_me_scaledn_m = 164.391 +/- 0.573513
+of0j_qqWWMadgraph_si_scaledn_m = 29.8276 +/- 0.203469
+of1j_qqWWMadgraph_me_scaledn_m = 176.527 +/- 1.51882
+of1j_qqWWMadgraph_si_scaledn_m = 34.4148 +/- 0.881607
+# gg->WW pdfs
+of0j_ggWW_me_scaledn_m = 161.825 +/- 4.65241
+of0j_ggWW_si_scaledn_m = 25.2269 +/- 1.6216
+of1j_ggWW_me_scaledn_m = 168.703 +/- 17.9609
+of1j_ggWW_si_scaledn_m = 29.352 +/- 6.17726
+# top pdfs
+of0j_Top_me_scaledn_m = 70.076 +/- 29.8454
+of0j_Top_si_scaledn_m = 99.9999 +/- 5.6332
+of1j_Top_me_scaledn_m = 188.269 +/- 2.28321
+of1j_Top_si_scaledn_m = 37.7414 +/- 0.822171
+# DY pdfs
+# Wg* pdfs
+of0j_WGstar_me_scaledn_m = 97.9999 +/- 33.9504
+of0j_WGstar_si_scaledn_m = 24.1929 +/- 5.90247
+of1j_WGstar_me_scaledn_m = 116.48 +/- 9.46663
+of1j_WGstar_si_scaledn_m = 17.4677 +/- 4.74477
+# Wg,WZ,ZZ=others pdfs
+of0j_Ot_me_scaledn_m = 163.655 +/- 24.0259
+of0j_Ot_si_scaledn_m = 30.2024 +/- 11.7382
+of1j_Ot_me_scaledn_m = 164.052 +/- 20.2695
+of1j_Ot_si_scaledn_m = 33.0438 +/- 9.93747
+# qq->WW pdfs
+of0j_qqWWMadgraph_me_scaleup_j = 164.913 +/- 0.601251
+of0j_qqWWMadgraph_si_scaleup_j = 30.045 +/- 0.211992
+of1j_qqWWMadgraph_me_scaleup_j = 176.295 +/- 1.55254
+of1j_qqWWMadgraph_si_scaleup_j = 34.3506 +/- 0.61347
+# gg->WW pdfs
+of0j_ggWW_me_scaleup_j = 162.332 +/- 5.20428
+of0j_ggWW_si_scaleup_j = 25.3884 +/- 1.74647
+of1j_ggWW_me_scaleup_j = 168.617 +/- 17.1123
+of1j_ggWW_si_scaleup_j = 29.3851 +/- 5.99842
+# top pdfs
+of0j_Top_me_scaleup_j = 70.0019 +/- 29.8795
+of0j_Top_si_scaleup_j = 99.9996 +/- 6.01904
+of1j_Top_me_scaleup_j = 189.324 +/- 2.57401
+of1j_Top_si_scaleup_j = 38.1329 +/- 1.19151
+# DY pdfs
+# Wg* pdfs
+of0j_WGstar_me_scaleup_j = 97.9999 +/- 36.7451
+of0j_WGstar_si_scaleup_j = 24.5123 +/- 5.98969
+of1j_WGstar_me_scaleup_j = 115.351 +/- 8.62181
+of1j_WGstar_si_scaleup_j = 16.2907 +/- 4.13437
+# Wg,WZ,ZZ=others pdfs
+of0j_Ot_me_scaleup_j = 164.224 +/- 21.968
+of0j_Ot_si_scaleup_j = 30.6909 +/- 11.9445
+of1j_Ot_me_scaleup_j = 164.211 +/- 20.3764
+of1j_Ot_si_scaleup_j = 32.8979 +/- 10.0014
+# qq->WW pdfs
+of0j_qqWWMadgraph_me_scaledn_j = 164.892 +/- 0.560833
+of0j_qqWWMadgraph_si_scaledn_j = 29.9229 +/- 0.199307
+of1j_qqWWMadgraph_me_scaledn_j = 178.068 +/- 1.29068
+of1j_qqWWMadgraph_si_scaledn_j = 35.0707 +/- 0.619824
+# gg->WW pdfs
+of0j_ggWW_me_scaledn_j = 162.871 +/- 4.44429
+of0j_ggWW_si_scaledn_j = 25.5612 +/- 1.60137
+of1j_ggWW_me_scaledn_j = 169.94 +/- 16.4158
+of1j_ggWW_si_scaledn_j = 30.0554 +/- 7.98376
+# top pdfs
+of0j_Top_me_scaledn_j = 200 +/- 115.583
+of0j_Top_si_scaledn_j = 42.782 +/- 2.41662
+of1j_Top_me_scaledn_j = 189.387 +/- 1.47438
+of1j_Top_si_scaledn_j = 38.0291 +/- 1.04348
+# DY pdfs
+# Wg* pdfs
+of0j_WGstar_me_scaledn_j = 98 +/- 23.392
+of0j_WGstar_si_scaledn_j = 22.9922 +/- 5.20047
+of1j_WGstar_me_scaledn_j = 117.289 +/- 10.1461
+of1j_WGstar_si_scaledn_j = 17.9133 +/- 5.07831
+# Wg,WZ,ZZ=others pdfs
+of0j_Ot_me_scaledn_j = 164.668 +/- 24.8028
+of0j_Ot_si_scaledn_j = 30.8885 +/- 11.2957
+of1j_Ot_me_scaledn_j = 164.417 +/- 19.1786
+of1j_Ot_si_scaledn_j = 32.9063 +/- 10.56
+# Wjets pdfs
+of0j_wjets_me_nominals = 145.604 +/- 4.58241
+of0j_wjets_si_nominals = 25.3685 +/- 2.45493
+of1j_wjets_me_nominals = 158.99 +/- 5.45402
+of1j_wjets_si_nominals = 28.7067 +/- 2.80669
+# Wjets pdfs
+of0j_wjets_me_fakerateup = 140 +/- 13.0016
+of0j_wjets_si_fakerateup = 15.6837 +/- 3.38819
+of1j_wjets_me_fakerateup = 140 +/- 13.0016
+of1j_wjets_si_fakerateup = 15.6837 +/- 3.38819
+# Wjets pdfs
+of0j_wjets_me_fakeratedn = 140 +/- 13.0016
+of0j_wjets_si_fakeratedn = 15.6837 +/- 3.38819
+of1j_wjets_me_fakeratedn = 140 +/- 13.0016
+of1j_wjets_si_fakeratedn = 15.6837 +/- 3.38819

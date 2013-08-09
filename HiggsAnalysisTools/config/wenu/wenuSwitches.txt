@@ -1,0 +1,13 @@
+MCtruth		1
+trigger 	1
+nRecoEle	1
+etaEleAcc	0
+ptEleAcc	1
+trackerPtSum	1
+jetVeto		1
+jetConeWidth	1
+etaJetAcc	0
+etJetAcc	1
+ptEle	        1
+MET		1
+ptSystem        1

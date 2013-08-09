@@ -1,0 +1,39 @@
+--- combine the parametric MR datacards with SF cut based and VBF cut based ---
+1. make the 1D combined datacards:
+./scripts/combcards.sh -p datacards -s 8 
+-> replace 8 with 7 to make the 7 TeV cards
+-> replace 8 with 78 to make the 7 + 8 TeV cards
+
+2. make the 2D (for OF 0/1 jet) datacards
+./scripts/combcards.sh -p datacards -t -s 8
+-> replace 8 with 7 to make the 7 TeV cards
+
+--- run the limits ---
+1D: ./scripts/runLimits.py -q 8nh -p test0 -l 12.1 comb_0j1j2j
+2D: ./scripts/runLimits.py -q 8nh -p test0 -l 12.1 comb_0j1j2j -t _2D
+
+- make limit tables, then plots -
+./scripts/makeLimitTable.py comb_0j1j2j
+./scripts/plotPlots.py -p test0 -l 12.1 comb_0j1j2j (add -o to draw the observed)
+
+
+
+--- run the significance ---
+in all the following, for 7 TeV replace -l 19.47 -y 2012 => -l 4.94 -y 2011
+                      for 7+8 TeV    => -l 24.41 -y 20112012 
+
+1. Expected:
+1D: ./scripts/runLimits.py -q 8nh -S -p test0 -l 19.47 -y 2012 comb_0j1j
+2D: ./scripts/runLimits.py -q 8nh -S -p test0 -l 19.47 -y 2012 comb_0j1j -t _2D
+
+2. Observed:
+1D: ./scripts/runLimits.py -q 8nh -S -o -p test0 -l 19.47 -y 2012 comb_0j1j
+2D: ./scripts/runLimits.py -q 8nh -S -o -p test0 -l 19.47 -y 2012 comb_0j1j -t _2D
+
+
+--- run the ML fits to study the fit ---
+./scripts/runLimits.py -q 8nh --mlfit -p test0 -l 19.47 -y 2012 comb_0j1j
+
+- make significance plot -
+./scripts/makeSignificanceTable.py comb_0j1j 
+./scripts/plotPlots.py -S -p test0 -l 19.47 -y 2012 comb_0j1j (add -o to draw the observed, -t _2D for 2D)

@@ -1,0 +1,16 @@
+MCtruth		1
+trigger		1
+nRecoEle	1
+etaEleAcc	1
+ptEleAcc	1
+trackerPtSum	1
+MET		1
+nRecoJets	1
+jetConeWidth	1
+etaJetAcc	1
+ptJetAcc	1
+alphaJet	1
+emFractionJet	1
+wTrMass		1
+deltaPhi	1
+classDepEleId   1

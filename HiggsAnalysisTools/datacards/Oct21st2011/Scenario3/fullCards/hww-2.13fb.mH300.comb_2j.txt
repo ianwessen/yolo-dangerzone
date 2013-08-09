@@ -1,0 +1,30 @@
+Limit
+imax 1 number of channels
+jmax 7 number of background
+kmax 16 number of nuisance parameters
+-------------------------------------------------
+bin             ll_2j   
+observation   9
+-------------------------------------------------
+   bin                      ll_2j        ll_2j        ll_2j        ll_2j        ll_2j        ll_2j        ll_2j        ll_2j  
+process                       vbfH         ggH      W+jets        ggWW          VV         Top   DY-tautau          DY  
+process                        -9          -8          1           2           3           4           5           6  
+  rate                    2.02588    0.506173           0    0.293203     1.89183     7.65    0.159    1.42  
+-------------------------------------------------
+CMS_eff_e                    lnN       1.020    1.020    1.020      1.020     1.020      -         -       -      
+CMS_eff_m                    lnN       1.040    1.040    1.040      1.040     1.040      -         -       -      
+PU                           lnN       1.03     1.03       -        1.04      1.04       -         -        -      
+CMS_p_scale_j                lnN       1.05     1.05       -        1.10      1.10       -         -        -      
+CMS_p_scale_m                lnN       1.002    1.002      -          -         -        -            -        -      
+CMS_p_scale_e                lnN       1.002    1.002      -          -         -        -            -        -      
+MC_statistics                lnN         -      1.03       -        1.35      1.10       -         -        -      
+QCDscale_ggH                 lnN         -      1.160      -          -         -        -            -        -      
+QCDscale_ggH1in              lnN         -      1.160      -          -         -        -            -        -      
+QCDscale_ggVV                lnN         -        -        -        1.160       -        -            -        -      
+lumi                         lnN       1.060    1.060    1.060      1.060    1.060       -        -        -      
+pdf_gg                       lnN         -      1.080      -        1.080       -        -            -        -      
+pdf_qqbar                    lnN       1.050      -        -          -       1.030      -        -        -      
+CMS_ww_Top2j                 lnN         -        -        -          -         -      1.7            -       -     
+CMS_ww_DY2j                  lnN         -        -        -          -         -        -            -      1.35     
+CMS_ww_DYtt2j                lnN         -        -        -          -         -        -          1.26        -    
+

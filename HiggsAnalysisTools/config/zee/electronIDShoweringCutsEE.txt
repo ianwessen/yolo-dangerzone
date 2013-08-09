@@ -1,0 +1,10 @@
+nRecoEle	1		1000
+hOverE		-0.12		0.12
+s9s25		0.50		1
+deta		-0.009		0.009
+dphiIn		-0.09		0.09
+dphiOut		-1000		1000
+covEtaEta	0.000064	0.000484
+eOverPout	0.5		9999
+Fisher		1.5		10
+Likelihood	0.98		1

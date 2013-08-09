@@ -1,0 +1,10 @@
+nRecoEle		1		1000
+etaEleAcc		-2.4		2.4
+ptEleAcc		26		10000
+trackerPtSum		0		0.05
+jetConeWidth		0.0		0.5
+etaJetAcc		-2.5		2.5
+etJetAcc		30		10000
+ptEle    		29		10000
+MET			25		10000
+ptSystem    		0		20

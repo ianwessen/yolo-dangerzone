@@ -1,0 +1,27 @@
+# produce the yields txt files. vgamma are separate for historical reasons
+# they are pure MC estimates + data counts. 
+# backgrounds estimated from data will be substituted by assembleCards.py
+
+# from macro/ directory use HiggsYields.cc that produces:
+# mcyields.txt
+# vgamma-yields-mc.txt 
+
+mv mcyields.txt vgamma-yields-mc.txt datacards
+cd datacards
+
+# copy all the input cards. Necessary files are:
+WJetsYieldsData_ForTable_{0,1}j.txt 
+DYCard_ll_{0,1}j.txt
+TopCard_{ee,mm,em,me}_{0,1}j.txt
+WWCard_{ee,mm,em,me}_{0,1}j.txt
+ggWWCard_{ee,mm,em,me}_{0,1}j.txt
+
+# run the scripts:
+./text2card-WJet.pl 
+./text2card-ZJet.sh
+
+# do the 0-j and 1-jet cards from data-estimation and yields
+./assembleCards.py 
+/makeCombCards.sh 4.63fb 
+
+

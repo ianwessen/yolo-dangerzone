@@ -1,0 +1,18 @@
+# qq->H->WW pdfs with systematics: nominals
+of0j_sig_me_nominals = -5.26999 +/- 4.51822
+of0j_sig_si_nominals = 23.3523 +/- 3.87441
+of0j_sig_alpha_nominals = 8.66955 +/- 7.52315
+of0j_sig_n_nominals = 5 +/- 0
+of1j_sig_me_nominals = -4.02572 +/- 6.19142
+of1j_sig_si_nominals = 23.2681 +/- 5.85119
+of1j_sig_alpha_nominals = 1.26201 +/- 1.09412
+of1j_sig_n_nominals = 5 +/- 0
+sf0j_sig_me_nominals = -4.34281 +/- 0.597786
+sf0j_sig_si_nominals = 21.3705 +/- 0.385763
+sf0j_sig_alpha_nominals = 2.53519 +/- 2.32814
+sf0j_sig_n_nominals = 5 +/- 0
+sf1j_sig_me_nominals = -2.65155 +/- 2.09563
+sf1j_sig_si_nominals = 23.2666 +/- 1.97815
+sf1j_sig_alpha_nominals = 4.71969 +/- 7.68234
+sf1j_sig_n_nominals = 5 +/- 0
+# qq->H->WW pdfs with systematics: res_met

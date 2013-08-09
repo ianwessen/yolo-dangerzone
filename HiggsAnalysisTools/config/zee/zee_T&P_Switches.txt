@@ -1,0 +1,7 @@
+MCtruth	 	   1
+trigger 	   1
+TagPtInf           1     
+TagTrackerPtSum    1     
+ProbePtInf         1     
+ProbeTrackerPtSum  1     
+invMass            1     

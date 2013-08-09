@@ -1,0 +1,11 @@
+rfio:/castor/cern.ch/user/e/emanuele/CMST3/Higgs2.2.X/ZZ_2l2n/default_1.root
+rfio:/castor/cern.ch/user/e/emanuele/CMST3/Higgs2.2.X/ZZ_2l2n/default_10.root
+rfio:/castor/cern.ch/user/e/emanuele/CMST3/Higgs2.2.X/ZZ_2l2n/default_11.root
+rfio:/castor/cern.ch/user/e/emanuele/CMST3/Higgs2.2.X/ZZ_2l2n/default_2.root
+rfio:/castor/cern.ch/user/e/emanuele/CMST3/Higgs2.2.X/ZZ_2l2n/default_3.root
+rfio:/castor/cern.ch/user/e/emanuele/CMST3/Higgs2.2.X/ZZ_2l2n/default_4.root
+rfio:/castor/cern.ch/user/e/emanuele/CMST3/Higgs2.2.X/ZZ_2l2n/default_5.root
+rfio:/castor/cern.ch/user/e/emanuele/CMST3/Higgs2.2.X/ZZ_2l2n/default_6.root
+rfio:/castor/cern.ch/user/e/emanuele/CMST3/Higgs2.2.X/ZZ_2l2n/default_7.root
+rfio:/castor/cern.ch/user/e/emanuele/CMST3/Higgs2.2.X/ZZ_2l2n/default_8.root
+rfio:/castor/cern.ch/user/e/emanuele/CMST3/Higgs2.2.X/ZZ_2l2n/default_9.root

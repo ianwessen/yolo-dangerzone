@@ -1,0 +1,9 @@
+nRecoEle		2		10000.
+etaEleAcc	       -2.5		2.5
+etaCrack1	        0.              1.4442
+etaCrack2	        1.560		10000.
+ptEleAcc		20		10000.
+trackerPtSum		0		0.02
+Mee			85.		95.
+
+

@@ -1,0 +1,107 @@
+# README file for HiggsAnalysisTools
+
+How to get the code
+-------------------
+cvs co -d HiggsAnalysisTools UserCode/emanuele/HiggsAnalysisTools
+cvs co -d EgammaAnalysisTools UserCode/emanuele/EgammaAnalysisTools
+cvs co -d CommonTools UserCode/emanuele/CommonTools
+cd HiggsAnalysisTools/config
+cvs co -d kfactors_Std HiggsAnalysis/HiggsToWW2Leptons/data/kfactors_Std
+cd ..
+
+How to choose the selection that is compiled
+--------------------------------------------
+The main() function is in the file src/HiggsApp.C
+Which one of the selections are compiled and run depends on the variable: Application.
+To change it modify: include/Application.hh 
+
+the code containing the H->WW->2l2nu selection is:
+- src/HiggsMLSelection.cc
+- src/CutBasedHiggsSelector.cc
+
+How to compile and run the code
+-------------------------------
+cp /afs/cern.ch/user/e/emanuele/public/4Latinos/pdfs_MC.root .
+make -j4 HiggsApp
+
+./HiggsApp <listwithfiles> <output-prefix> <ismc>
+
+- run on MC example: 
+./HiggsApp testH160_Fall11.txt Hww160 1
+
+where testH160_Fall11.txt is the list of files (vecbos ntuples)
+
+- run on data example (JSON is in config/json/goodCollisions2011.json):
+
+edit the file config/higgs/2l2nuSwitches.txt and modify the first two lines to be:
+isData                  1
+goodRunLS               1
+
+./HiggsApp doubleelectron.txt prefix 0
+
+this will run the standard selection, and produce 4 selected trees (one for each channel: ee/mumu/emu/mue):
+prefix-datasetMM/EE/EM/ME.root
+
+these are the 'unweighted' latinos trees.
+
+
+How to run in batch:
+-------------------
+The output is typically big, so typically one runs in batch and each job copies the output
+on a computer disk through ssh at the end of running. 
+For each 'dataset', i.e. txt list file in cmst3_42X/, the cmst3_submit_manyfilesperjob.py has to be executed.
+
+Edit the script cmst3_submit_manyfilesperjob.py to change the computer where you want the ouptut. Change the three lines specyfying it.
+
+diskoutputdir="/dirthatyoulike..."
+    os.system("ssh -o BatchMode=yes -o StrictHostKeyChecking=no nameofthepcthatyoulike mkdir -p "+diskoutputmain)
+    outputfile.write('ls *.root | grep -v Z_calibFall08 | xargs -i scp -o BatchMode=yes -o StrictHostKeyChecking=no {} nameofthepcthatyoulike:'+diskoutputmain+'/{}\n') 
+
+- run on all MC samples:
+./submitMassDependentAnalysis.pl -p MC_Submission_V1
+will create the directory  MC_Submission_V1 with cfgs and log files in that directory, 
+and another  MC_Submission_V1 on the pc where it will write the output ROOT files
+
+- run on all data samples:
+./submitMassDependentAnalysis_data.pl -P Data_Submission_V1
+
+
+How to weight / merge latinos trees after the batch jobs are done:
+------------------------------------------------------------------
+cd macro/
+ln -s dirwheretheMCfilesare results
+ln -s dirwheretheDatafilesare results_data
+
+chmod a+x fromSingleJobResToRooDataSet.sh
+chmod a+x fromSingleJobResToRooDataSetData.sh 
+
+- MC:
+./fromSingleJobResToRooDataSet.sh 1000 (takes a lot of time!)
+will compute and store all the important weights in the latinos trees (for 1000 pb-1).
+
+The important weights are:
+"baseW": weight / 1fb-1
+"puW": to reweight for the PU profile of te Full2011 data taking
+"effW": data / MC scale factors
+"kfW": k-factor (different from 1 only for Higgs and DrellYan)
+
+- data:
+./fromSingleJobResToRooDataSetData.sh
+will do the same to the data
+
+
+Where the important files are:
+------------------------------
+
+- MC: 
+results/datasets_trees:  contains the weighted trees
+results/datasets_trees_skim: the same trees, but only with events passing the HWW pre-selection (WWSel OR WWSel1j bits)
+
+- data:
+results_data/datasets_trees
+results_data/datasets_trees_skim
+
+
+
+
+

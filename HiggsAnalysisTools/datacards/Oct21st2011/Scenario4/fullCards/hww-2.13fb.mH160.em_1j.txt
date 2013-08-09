@@ -1,0 +1,40 @@
+## H->WW for m(H) = 160, channel em, 1 jets. Luminosity 2.13fb
+## Debug info: {'WW': [4.0788000000000002, 198.0, 0.0206, 0.0055799999999999999], 'Vg': [0.082199999999999995], 'WJet': [0.79000000000000004, 1.2658227848101267], 'Top': [3.74751331, 491.0, 0.0076324100000000001, 0.00051999999999999995], 'ggWW': [0.30491999999999997, 198.0, 0.0015399999999999999, 0.00041599999999999997], 'VV': [0.23200000000000001], 'data': [0.0], 'ggH': [8.2899999999999991], 'vbfH': [1.0569999999999999]}
+imax 1
+jmax *
+kmax *
+----------------------------------------------------------------------------------------------------
+bin          em_1j
+observation    0
+----------------------------------------------------------------------------------------------------
+bin                                em_1j    em_1j    em_1j    em_1j    em_1j    em_1j    em_1j    em_1j
+process                             vbfH      ggH       WW       Vg     WJet      Top     ggWW       VV
+process                               -8       -7        1        2        3        4        5        6
+rate                               1.057    8.290    4.079    0.082    0.790    3.748    0.305    0.232
+----------------------------------------------------------------------------------------------------
+lumi                      lnN       1.04     1.04        -     1.04        -        -        -     1.04   
+pdf_gg                    lnN          -     1.08        -        -        -        -     1.00        -   
+pdf_qqbar                 lnN       1.02        -     1.00        -        -        -        -     1.04   
+QCDscale_ggH1in           lnN          -     1.51        -        -        -        -        -        -   
+QCDscale_ggH2in           lnN          -     0.83        -        -        -        -        -        -   
+QCDscale_qqH              lnN       1.01        -        -        -        -        -        -        -   
+QCDscale_ggVV             lnN          -        -        -        -        -        -     1.50        -   
+QCDscale_VV               lnN          -        -        -        -        -        -        -     1.04   
+QCDscale_Vg               lnN          -        -        -     1.50        -        -        -        -   
+CMS_eff_m                 lnN       1.02     1.02        -     1.02        -        -        -     1.02   
+CMS_eff_e                 lnN       1.02     1.02        -        -        -        -        -     1.02   
+CMS_p_scale_m             lnN       1.01     1.01        -     1.01        -        -        -     1.01   
+CMS_met                   lnN       1.02     1.02        -     1.02        -        -        -     1.02   
+CMS_scale_j               lnN       1.02     1.02        -     1.02        -        -        -     1.02   
+QCDscale_ggH_ACEPT        lnN          -     1.02        -        -        -        -        -        -   
+QCDscale_qqH_ACEPT        lnN       1.02        -        -        -        -        -        -        -   
+UEPS                      lnN          -     1.11        -        -        -        -        -        -   
+CMS_QCDscale_WW_EXTRAP    lnN          -        -     1.21        -        -        -        -        -   
+CMS_fake_m                lnN          -        -        -        -     1.27        -        -        -   
+CMS_fake_Vg               lnN          -        -        -     2.00        -        -        -        -   
+CMS_hww_Top_1j_extr       lnN          -        -        -        -        -     1.07        -        -   
+CMS_hww_Top_1j_stat       gmN 491      -        -        -        -        -   0.0076        -        -   
+CMS_hww_WW_1j_extr        lnN          -        -     1.27        -        -        -        -        -   
+CMS_hww_WW_1j_stat        gmN 198      -        -   0.0206        -        -        -        -        -   
+CMS_hww_ggWW_1j_extr      lnN          -        -        -        -        -        -     1.27        -   
+CMS_hww_ggWW_1j_stat      gmN 198      -        -        -        -        -        -   0.0015        -   

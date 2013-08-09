@@ -1,0 +1,27 @@
+Tag_nRecoEle		1		1000
+Tag_hOverE		-0.07		0.07
+Tag_s9s25		0.70		1
+Tag_deta		-0.005		0.005
+Tag_dphiIn		-0.04		0.04
+Tag_dphiOut		-0.02		0.02
+Tag_covEtaEta		0.000064 	0.0009
+Tag_eOverPout		0.8		1000
+Tag_Fisher		1.10		15
+Tag_Likelihood		0.90		1
+Tag_invEMinusInvP	-0.02           0.02
+Tag_bremFraction	 0.2             1
+Tag_eOverPin		0		1000
+Probe_nRecoEle		 1		1000
+Probe_hOverE		-0.07		0.07
+Probe_s9s25		0.70		1
+Probe_deta		-0.005		0.005
+Probe_dphiIn		-0.04		0.04
+Probe_dphiOut		-0.02		0.02
+Probe_covEtaEta		0.000064 	0.0009
+Probe_eOverPout		0.8		1000
+Probe_Fisher		1.10		15
+Probe_Likelihood	0.90		1
+Probe_invEMinusInvP	-0.02           0.02
+Probe_bremFraction	0.2             1
+Probe_eOverPin		0		1000
+

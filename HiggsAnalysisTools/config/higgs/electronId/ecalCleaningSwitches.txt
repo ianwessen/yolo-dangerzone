@@ -1,0 +1,3 @@
+spikeFraction           1
+seedTime                0
+removeWeirdSeed         0

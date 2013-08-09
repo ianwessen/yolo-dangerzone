@@ -1,0 +1,26 @@
+Tag_hOverE		1
+Tag_s9s25		1
+Tag_deta		1
+Tag_dphiIn		1
+Tag_dphiOut		0
+Tag_invEMinusInvP	0
+Tag_bremFraction	0
+Tag_covEtaEta   	1
+Tag_eOverPout   	1
+Tag_eOverPin    	0
+Tag_Fisher		0
+Tag_Likelihood	        0
+
+Probe_hOverE		1
+Probe_s9s25		1
+Probe_deta		1
+Probe_dphiIn		1
+Probe_dphiOut		0
+Probe_invEMinusInvP	0
+Probe_bremFraction	0
+Probe_covEtaEta   	1
+Probe_eOverPout   	1
+Probe_eOverPin    	0
+Probe_Fisher		0
+Probe_Likelihood        0
+

@@ -1,0 +1,17 @@
+deta 	 0.0 	 0.007 
+dphiIn 	 0.0 	 0.098 
+sigmaEtaEta 	 0.0 	 0.011 
+hOverE 	 0.0 	 0.056 
+trackerIso 	 -100 	 5.280 
+ecalIso 	 -100 	 4.676 
+hcalIso 	 -100 	 6.158 
+missHits 	 0 	 1 
+combIso         0.0             999.
+eOverPin        0.0             999.
+s9s25           0.0             1.0
+eOverPout       0.0             1000
+dphiOut         0.0             999.
+invEminusInvP   0.0             1000
+bremFraction    0.0             999.
+sigmaPhiPhi     0.0             999.
+likelihood      0.0             1.0

@@ -1,0 +1,9 @@
+nRecoEle	 1		1000
+hOverE		-0.05		0.05
+deta		-0.005		0.005
+eOverPin 	 0.8		1000
+invEMinusInvP   -0.02           0.02
+dphiIn          -0.05           0.05
+covEtaEta       -0.0009         0.0009
+
+
